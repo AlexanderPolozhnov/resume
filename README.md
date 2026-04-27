@@ -4,8 +4,8 @@
 
 ## Просмотр
 
-- [Открыть резюме в PDF](./resume.pdf)
-- [Открыть HTML-версию](https://alexanderpolozhnov.github.io/resume/resume.pdf)
+- [Открыть резюме в PDF](https://alexanderpolozhnov.github.io/resume/resume.pdf)
+- [Открыть HTML-версию](./resume.pdf)
 
 ## Основной стек
 
